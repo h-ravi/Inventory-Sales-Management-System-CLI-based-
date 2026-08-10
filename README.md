@@ -40,13 +40,6 @@ sales.csv     -> Stores sales history
    ```
 4. Follow the on-screen menu to add products, sell products, and view your inventory
 
-## Future Improvements
-
-- Sales reports (daily, weekly, monthly)
-- Low stock alerts
-- Error logging in a separate log file
-- Move from JSON/CSV to a proper database
-
 ## Note
 
 This is a learning project. It is not built for production use, only to practice real Python concepts hands-on.
