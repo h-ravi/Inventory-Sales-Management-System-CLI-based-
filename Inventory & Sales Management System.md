@@ -1,4 +1,4 @@
-**AI Dwara Likha gaya Hai"
+**AI Dwara Likha gaya Hai**
 
 **Client:** RetailKart Pvt. Ltd. (Fictional)
 **Project:** Inventory & Sales Management System (CLI-based)
