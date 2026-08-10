@@ -25,10 +25,6 @@ Hamara ek chhota retail store hai. Abhi tak hum Excel me manually stock aur sale
    - Products ka data `products.json` me save ho
    - Sales history `sales.csv` me save ho
 
-4. **Reports**
-   - Total sales aaj ki, is week ki, is month ki dikhani chahiye
-   - Low stock products (jinki quantity 5 se kam hai) ka alert dikhana
-
 ---
 
 **Conditions (Client ki taraf se):**
@@ -45,5 +41,4 @@ Hamara ek chhota retail store hai. Abhi tak hum Excel me manually stock aur sale
 - `common.py` — shared/reusable functions (input validation, JSON save-load)
 - `product.py` — Product class + product management menu
 - `sales.py` — Sales class + selling logic
-- `reports.py` — sales report + low stock alert
 - Sample data files (`products.json`, `sales.csv`)
