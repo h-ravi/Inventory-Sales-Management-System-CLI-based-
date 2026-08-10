@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Raj",
+        "price": 300,
+        "quantity": 0,
+        "total_amount": 0,
+        "net_profit": 390
+    },
+    {
+        "id": 2,
+        "name": "rani",
+        "price": 200,
+        "quantity": 20,
+        "total_amount": 3000
+    },
+    {
+        "id": 3,
+        "name": "Aaloo",
+        "price": 32,
+        "quantity": 32,
+        "total_amount": 1024
+    }
+]
