@@ -43,3 +43,5 @@ sales.csv     -> Stores sales history
 ## Note
 
 This is a learning project. It is not built for production use, only to practice real Python concepts hands-on.
+
+update soon
